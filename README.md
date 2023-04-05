@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [React](https://react.dev/) : User Interface Library
 - [React Testing Library](https://testing-library.com/) : User-centric UI testing library
+- [Jest](https://jestjs.io/) : JS Testing framework
+- [Prettier](https://prettier.io/) : Code formatter
+- [Husky](https://typicode.github.io/husky/#/) : Git Hooks for commit and push actions
 
 ## Assumptions
 
