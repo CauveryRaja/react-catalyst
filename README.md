@@ -9,6 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Jest](https://jestjs.io/) : JS Testing framework
 - [Prettier](https://prettier.io/) : Code formatter
 - [Husky](https://typicode.github.io/husky/#/) : Git Hooks for commit and push actions
+- [Lint staged](https://github.com/okonet/lint-staged) : Runs linters against git staged files
 
 ## Assumptions
 
