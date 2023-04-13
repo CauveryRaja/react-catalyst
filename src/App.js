@@ -1,7 +1,11 @@
-import './App.css';
+import { Greeting } from './App.style';
 
 function App() {
-  return <div className="App">Hello, React</div>;
+  return (
+    <div>
+      <Greeting>Hello, React</Greeting>
+    </div>
+  );
 }
 
 export default App;
